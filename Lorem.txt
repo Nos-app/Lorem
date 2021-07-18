@@ -32,11 +32,3 @@ est semper sapien. Integer cursus non neque quis tincidunt. Maecenas posuere sem
 Vestibulum nec turpis dignissim enim malesuada consectetur non et tellus. Etiam nisi erat,
 elementum sit amet sodales quis, maximus vitae orci. Etiam odio diam, iaculis non nisi 
 pretium, posuere mollis elit.
-
-Sed lobortis ante quam. Nulla in accumsan tellus. Proin facilisis dolor sed mi accumsan, 
-sed laoreet turpis pellentesque. Interdum et malesuada fames ac ante ipsum primis in faucibus.
-Donec quis porta odio. Sed convallis ultrices eros. In eu erat neque. Duis a pellentesque 
-augue. Proin quis auctor mi, placerat consectetur felis. Donec elit ex, consequat in placerat 
-quis, molestie eu ex. In auctor pretium maximus. Cras rhoncus libero vel neque blandit auctor.
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
-Nam ipsum massa, dapibus quis massa id, molestie mollis tellus. Sed ut felis eros.
